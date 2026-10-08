@@ -2,3 +2,6 @@ torch
 pandas
 numpy
 matplotlib
+transformers
+psutil
+streamlit
